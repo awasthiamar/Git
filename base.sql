@@ -1,1 +1,1 @@
-select "Hello World"
+select 1
