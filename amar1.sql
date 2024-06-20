@@ -1,1 +1,1 @@
-select 2
+select * from AIRBNB.DEV.LISTING limit 10;
